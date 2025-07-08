@@ -1,31 +1,4 @@
-# Node modules
-node_modules/
-
-# Next.js build output
-.next/
-out/
-build/
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# OS-specific files
-.DS_Store
-Thumbs.db
-
-# Environment variables
-.env*
-
-# Vercel
-.vercel/
-
-# TypeScript build info
-*.tsbuildinfo
-
-# Local Next.js types
-next-env.d.ts
-
-# Misc
-*.pem
+node_modules
+.next
+.env
+*.log
